@@ -27,7 +27,7 @@ User Interaction: The program prompts the user to enter the name of the text fil
 # How to use
 
 - Place the program in a directory where you have the graphics library installed.
-- Run the program using a Python interpreter.
+- Run the program using a Python interpreter. Type "python infographic.py" in terminal.
 - Enter the name of the text file you want to analyze. I have included an example .txt file.
 - Observe the infographic that represents the word characteristics in the input file.
 
