@@ -32,3 +32,4 @@ User Interaction: The program prompts the user to enter the name of the text fil
 - Observe the infographic that represents the word characteristics in the input file.
 
 # Concept Video
+https://youtu.be/nn8I1vgoXLI
